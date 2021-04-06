@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="297mm"
-   height="210mm"
-   viewBox="0 0 297 210"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
    version="1.1"
    id="svg1631"
    inkscape:version="1.0.2 (1.0.2+r75+1)"
@@ -53,11 +53,15 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <image
-       width="122.88205"
-       height="83.629814"
-       preserveAspectRatio="none"
-       xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCggKCAsLCQsKCwsLDhAMCgsNExcVEBQPFhISDhYS
+    <g
+       id="g2301"
+       transform="matrix(0.63383117,0,0,0.63383117,18.700567,68.877796)"
+       style="stroke-width:1.57771">
+      <image
+         width="122.88205"
+         height="83.629814"
+         preserveAspectRatio="none"
+         xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkJCggKCAsLCQsKCwsLDhAMCgsNExcVEBQPFhISDhYS
 DxQPDxQSFBgTFhQZIBoeGRgrIRwkExwdMiIzKjclIjABBgsKCw0OCwwMDg4MDRAOHRQNDCIUFRcO
 HggXDBAWEBEXCxATFAsRGREeCRkMCCIYHRQPHRANDA8WEAsUFSMWGP/CABEIAmQDUAMBIgACEQED
 EQH/xAAcAAABBQEBAQAAAAAAAAAAAAAAAQIDBAUGBwj/2gAIAQEAAAAA9wAAAAAAAAAAAAAAAAAA
@@ -901,22 +905,23 @@ CiIYiUJ7SHsNxCErHeqyEcvQfBwCSxpY9WPhEJ2RSG3xifaX7ISSGVIcShJvXKLvKS8ug4e05vwi
 NE4iFCS0FdWpsXuoifj9jYverRbio0Kb66NyXAJOWWj/ACyr68n4+mKyzPZuJv59pEVeTyeaJJfY
 Kq/bP//Z
 "
-       id="image2272"
-       x="-126.53415"
-       y="50.951206"
-       style="stroke-width:1.88023"
-       transform="scale(-1,1)" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.9035px;line-height:1.25;font-family:'League Gothic';-inkscape-font-specification:'League Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="150.65971"
-       y="108.64873"
-       id="text2278"
-       transform="scale(0.94856046,1.0542291)"><tspan
-         sodipodi:role="line"
-         id="tspan2276"
+         id="image2272"
+         x="-126.53415"
+         y="50.951206"
+         style="stroke-width:2.96645"
+         transform="scale(-1,1)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.9035px;line-height:1.25;font-family:'League Gothic';-inkscape-font-specification:'League Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.417434"
          x="150.65971"
          y="108.64873"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.9035px;font-family:'League Gothic';-inkscape-font-specification:'League Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">DIE CAST MDELING</tspan></text>
+         id="text2278"
+         transform="scale(0.94856046,1.0542291)"><tspan
+           sodipodi:role="line"
+           id="tspan2276"
+           x="150.65971"
+           y="108.64873"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.9035px;font-family:'League Gothic';-inkscape-font-specification:'League Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.417434">DIE CAST M0DELING</tspan></text>
+    </g>
   </g>
 </svg>
